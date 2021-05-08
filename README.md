@@ -1,2 +1,2 @@
-# PointSever
-后端服务
+# PointServer
+积分系统的服务器端
